@@ -1,0 +1,1 @@
+sed -r -e 's/\/\/.*//' -e '/^$/d' hello.cpp
